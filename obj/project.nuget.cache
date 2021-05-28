@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iu8M5XosjZWhvLiuOLbzC3kXz7bLej1JyehXfiOWFxdK1tN8DoOVEsAdbIIIckBOn16nDg/ycts4W8z3GhYMbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marvi\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CoinMayhem\\CoinMayhem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marvi\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

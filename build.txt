@@ -1,0 +1,3 @@
+displayName = Coin Mayhem
+author = Supairo
+version = 0.1

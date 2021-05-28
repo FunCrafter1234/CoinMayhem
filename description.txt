@@ -1,0 +1,16 @@
+This Mod completely changes the way you play Terraria, by just adding a simple Rule.
+All Weapons and Tools are only dealing 50% of the original Damage.
+Collecting Coins and keeping them in the Inventory increases your Damage output. 
+With enough Money you can even increase your Damage over the original 100%!
+So every Death is critical and buying Items from the Shop is needed thinking first if it is actually worth it!
+
+Future Plans:
+
+-Accessories for taking a % of the Money in Piggibanks as Damage, so you can play safer.
+-An Item to display the current Coin Damage Modifier.
+-Items to make Coin Farming easier.
+-Custom Coins with even better Stats for more Damage etc.
+-Maybe even affect other Stats like Defense.
+-A Config with many Settings, to make your own Balancing possible, so I dont have to worry about it. :)
+
+Mod Website will follow at some Point, for now if you have any Questions/Suggestions please send me a DM on Discord (SupairoTeddy on the TML Discord)
